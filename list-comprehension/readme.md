@@ -10,5 +10,6 @@ def calc_categories(items):
   bird = len([1 for n in items if n in ['eagle']]) 
   return {'fish': fish,'birds': bird}
 
-print(calc_categories(['shark','tuna','eagle']))  
+print(calc_categories(['shark','tuna','eagle']))
+{'fish': 2, 'birds': 1}
 ```
