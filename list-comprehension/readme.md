@@ -1,4 +1,5 @@
-
+## Collection of List Comprehension code used.
+List comprehension is one of the neat feature of Python, allowing concise expression of code, in a functional programming style.
 
 #### Categories Count for Items
 Grouping a list of items by it's category.
