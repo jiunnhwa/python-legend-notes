@@ -10,3 +10,5 @@ Useful links found on the web:
 - [101 Python Automation Scripts: Streamlining Tasks and Boosting Productivity(Part 2)](https://levelup.gitconnected.com/101-python-automation-scripts-streamlining-tasks-and-boosting-productivity-part-2-22b3e6a96829) - Extracting Named Entities from News Articles, etc.
 - [Everyday Python Sheets](https://everyday-python.streamlit.app/) - Pip, OS, Async... Interview questions
 - [Everyday Python Sheets Pro](https://everyday-python.streamlit.app/page5) - One-Liners, Advanced Py, etc.
+- [Python for Data Engineering](https://medium.com/@mariusz_kujawski/python-for-data-engineering-6bd6140033d4) - libraries like gcsfs, adlfs, and s3fs.
+- [Pandas Basics: Everything you Need to Know for 90% of Projects](https://medium.com/@matthewghannoum/pandas-basics-everything-you-need-to-know-for-90-of-your-projects-972a964a1377) - Joins, ...
