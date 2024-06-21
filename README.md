@@ -14,6 +14,9 @@ Useful links found on the web:
 - [Pandas Basics: Everything you Need to Know for 90% of Projects](https://medium.com/@matthewghannoum/pandas-basics-everything-you-need-to-know-for-90-of-your-projects-972a964a1377) - Joins, ...
 - [10 Lesser-Known Python Tricks to Enhance Your Coding Skills](https://medium.com/pythoneers/10-lesser-known-python-tricks-to-enhance-your-coding-skills-b6ae2734e6c8) - namedtuple, itertools  ...
 - [Mastering Python’s Asyncio: A Practical Guide](https://medium.com/@moraneus/mastering-pythons-asyncio-a-practical-guide-0a673265cf04) - Concurrent I/O Tasks, Future object...
+https://blog.devgenius.io/mastering-advanced-oop-concepts-in-python-theory-behind-oop-c9e87fb1697b    Mastering Advanced OOP Concepts in Python: Theory Behind OOP
+https://gaurav-adarshi.medium.com/mastering-pythons-re-module-a-comprehensive-guide-to-regular-expressions-a8cd15e78721    Mastering Python’s re Module: A Comprehensive Guide to Regular Expressions
+
 
   
 ### Libraries
