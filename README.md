@@ -1,6 +1,8 @@
 # python-legend-notes
 A collection of python notes, links and code for everyday use.
 
+### Cheat Sheets
+- [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/) - Python modules can double-up as handy command-line tools.
 
 ### Bookmarks
 Useful links found on the web:
